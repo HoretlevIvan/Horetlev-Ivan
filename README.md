@@ -13,6 +13,8 @@ pip install -r requirements.txt
 cd lyceum
 python manage.py runserver
 
+# Приступаем к скачивание всех необходимых библиотек (зависимости)
+
 # Чтобы запустить проект прописываем:
 pip install -r  requirements\test.txt
 
